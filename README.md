@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Arié Ferencz 👋
 
-<!--
-**arieferencz/arieferencz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data professional building a T-SQL portfolio using Microsoft's **AdventureWorks2022** database and **SQL Server Management Studio (SSMS)**.
 
-Here are some ideas to get you started:
+Each repository contains practical exercises with complete solutions, real query outputs, and step-by-step explanations — written so that anyone can follow and replicate them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🗄️ T-SQL Portfolio
+
+| Repository | Topics covered | Exercises |
+|---|---|---|
+| [📂 Working with Data Sets](https://github.com/arieferencz/SQL_SERVER-Working-with-Data-Sets) | CTEs, pivoting, reverse pivoting, string manipulation, hierarchical parent-child queries, data grouping | 23 |
+| [📂 Dates, Numbers & Statistics](https://github.com/arieferencz/SQL_SERVER-Working-with-Dates-Numbers-and-Statistics) | Date functions, business day calculations, calendars, median, mode, percentiles, running totals, histograms | 22 |
+| [📂 AdventureWorks2022 — SSMS Setup](https://github.com/arieferencz/SQL_SERVER-Database-AdventureWorks2022-for-SSMS) | Step-by-step guide to download and restore the AdventureWorks2022 database into SSMS | — |
+
+---
+
+## 🛠️ Tech stack
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-0078D4?style=flat&logo=microsoft&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoft&logoColor=white)
+
+---
+
+## 🔜 Coming soon
+
+- 🐍 Python portfolio
+- 📊 Additional data analysis projects
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arieferencz)
