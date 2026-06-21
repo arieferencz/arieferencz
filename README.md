@@ -10,7 +10,7 @@ Each repository contains practical exercises with complete solutions, real query
 
 | Repository | Topics covered | Exercises |
 |---|---|---|
-| [📂 Working with Data Sets](https://github.com/arieferencz/SQL_SERVER-Working-with-Data-Sets) | CTEs, pivoting, reverse pivoting, string manipulation, hierarchical parent-child queries, data grouping | 23 |
+| [📂 Working with Data Sets](https://github.com/arieferencz/SQL_SERVER-Working-with-Data-Sets) | CTEs, pivoting, reverse pivoting, string manipulation, hierarchical parent-child queries, data grouping | 27 |
 | [📂 Dates, Numbers & Statistics](https://github.com/arieferencz/SQL_SERVER-Working-with-Dates-Numbers-and-Statistics) | Date functions, business day calculations, calendars, median, mode, percentiles, running totals, histograms | 22 |
 | [📂 AdventureWorks2022 — SSMS Setup](https://github.com/arieferencz/SQL_SERVER-Database-AdventureWorks2022-for-SSMS) | Step-by-step guide to download and restore the AdventureWorks2022 database into SSMS | — |
 
