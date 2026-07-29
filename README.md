@@ -23,7 +23,7 @@ This SQL portfolio uses Microsoft's **AdventureWorks2022** database and **SQL Se
 
 | Repository | Topics covered | Status |
 |---|---|---|
-| [Financial Mathematics Applications in VBA](#) | Time Value of Money (Future Value, Present Value), valuation and profitability calculations for fixed income, equities, forex, futures, and derivatives | 🚧 In progress |
+| [Financial Mathematics Applications in VBA](#) | Time Value of Money (Future Value, Present Value, Net Present Value, Internal Rate of Return (IRR), IRR and Loan Tables and Investment Amortization, Annual 'Flat' Payments on Loans | 🚧 In progress |
 
 ---
 
