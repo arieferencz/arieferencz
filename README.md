@@ -32,7 +32,7 @@ This SQL portfolio uses Microsoft's **AdventureWorks2022** database and **SQL Se
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoft&logoColor=white)
-
+![VBA Excel](https://img.shields.io/badge/VBA%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ---
 
 ## 🔜 Coming soon
