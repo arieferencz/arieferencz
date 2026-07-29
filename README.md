@@ -19,6 +19,14 @@ This SQL portfolio uses Microsoft's **AdventureWorks2022** database and **SQL Se
 
 ---
 
+## 💹 Financial Modeling with VBA Excel Portfolio
+
+| Repository | Topics covered | Status |
+|---|---|---|
+| [Financial Mathematics Applications in VBA](#) | Time Value of Money (Future Value, Present Value), valuation and profitability calculations for fixed income, equities, forex, futures, and derivatives | 🚧 In progress |
+
+---
+
 ## 🛠️ Tech stack
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
