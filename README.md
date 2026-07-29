@@ -1,12 +1,15 @@
 # Hi, I'm Arié Ferencz 👋
 
-I am a data professional building a T-SQL portfolio using Microsoft's **AdventureWorks2022** database and **SQL Server Management Studio (SSMS)**.
+I am a data professional that builds hands-on, well-documented portfolios in T-SQL and VBA Excel, focused on practical financial and data problems. 
 
-Each repository contains practical exercises with complete solutions, real query outputs, and step-by-step explanations — written so that anyone can follow and replicate them.
+Each repository contains practical exercises with complete solutions, real query/output results, and step-by-step explanations — written so that anyone can follow and replicate them.
+
 
 ---
 
 ## 🗄️ T-SQL Portfolio
+
+This SQL portfolio uses Microsoft's **AdventureWorks2022** database and **SQL Server Management Studio (SSMS)**.
 
 | Repository | Topics covered | Exercises |
 |---|---|---|
